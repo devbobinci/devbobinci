@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bartek Karge</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devbobinci&label=Profile%20views&color=0e75b6&style=flat" alt="devbobinci" /> </p>
 
-- 🌱 I’m currently learning **Figma**
+- 🌱 I’m currently learning **NextJS, Prisma**
 
 - 👨‍💻 My projects are available at [https://portfolio-karge.vercel.app](https://portfolio-karge.vercel.app)
 
